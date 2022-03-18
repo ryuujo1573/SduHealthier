@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="LoginUrl" xml:space="preserve">
+        <value>https://pass.sdu.edu.cn/cas/login</value>
+    </data>
+    <data name="ServiceUrl" xml:space="preserve">
+        <value>https://service.sdu.edu.cn/tp_up</value>
+    </data>
+    <data name="ServiceHomeUrl" xml:space="preserve">
+        <value>https://service.sdu.edu.cn/tp_up/view?m=up#act=portal/viewhome</value>
+    </data>
+    <data name="ServeApplyUrlTemp" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/view?m=fp#from=hall&amp;serveID={}&amp;act=fp/serveapply</value>
+    </data>
+    <data name="CheckServiceUrl" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/fp/serveapply/checkService</value>
+    </data>
+    <data name="ServeInfoUrl" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/fp/serveapply/serveInfo</value>
+    </data>
+    <data name="GetServeApplyUrl" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/fp/serveapply/getServeApply</value>
+    </data>
+    <data name="GetContinueServiceUrl" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/fp/serveapply/getContinueService</value>
+    </data>
+    <data name="ServiceLogoutUrl" xml:space="preserve">
+        <value>https://service.sdu.edu.cn/tp_up/logout</value>
+    </data>
+    <data name="CasLogoutUrl" xml:space="preserve">
+        <value>https://pass.sdu.edu.cn/cas/logout?service=https://service.sdu.edu.cn/tp_up/</value>
+    </data>
+    <data name="PortalLogoutUrl" xml:space="preserve">
+        <value>https://pass.sdu.edu.cn/portal/logout.jsp?service=https://service.sdu.edu.cn/tp_up/</value>
+    </data>
+    <data name="ServeBaseUrl" xml:space="preserve">
+        <value>https://scenter.sdu.edu.cn/tp_fp/view?m=fp</value>
+    </data>
+    <data name="UserAgent" xml:space="preserve">
+        <value>Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36</value>
+    </data>
+</root>

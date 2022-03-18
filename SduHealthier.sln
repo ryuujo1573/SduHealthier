@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SduHealthier.Core", "SduHealthier.Core\SduHealthier.Core.csproj", "{08C3B20C-F9DC-4EAA-BFDB-CE8D53D9B5EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SduHealthier.Cli", "SduHealthier.Cli\SduHealthier.Cli.csproj", "{FA219B34-CBBC-4DC5-A605-83BCAFB2BBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SduHealthier.UnitTest", "SduHealthier.UnitTest\SduHealthier.UnitTest.csproj", "{60347CE3-D0E9-4156-8F80-7CA12FB0F340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C3B20C-F9DC-4EAA-BFDB-CE8D53D9B5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C3B20C-F9DC-4EAA-BFDB-CE8D53D9B5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C3B20C-F9DC-4EAA-BFDB-CE8D53D9B5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C3B20C-F9DC-4EAA-BFDB-CE8D53D9B5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA219B34-CBBC-4DC5-A605-83BCAFB2BBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA219B34-CBBC-4DC5-A605-83BCAFB2BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA219B34-CBBC-4DC5-A605-83BCAFB2BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA219B34-CBBC-4DC5-A605-83BCAFB2BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60347CE3-D0E9-4156-8F80-7CA12FB0F340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60347CE3-D0E9-4156-8F80-7CA12FB0F340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60347CE3-D0E9-4156-8F80-7CA12FB0F340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60347CE3-D0E9-4156-8F80-7CA12FB0F340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
